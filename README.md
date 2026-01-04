@@ -1,9 +1,9 @@
-# 🛠️ PruebaBackend
+# 🛠️ Customer Manager
 
-> Backend Technical Assessment - Client Management System CRUD
+> Customer Management System - Full CRUD Backend Application
 
 **Author:** José Eduardo Tirado Verbel  
-**Demo:** [View Live Demo](https://jotive.github.io/PruebaBackend)
+**Demo:** [View Live Demo](https://jotive.github.io/customer-manager)
 
 ## 📝 Overview
 
@@ -31,7 +31,7 @@ This repository contains a comprehensive backend technical assessment that demon
 ## 📁 Project Structure
 
 ```
-PruebaBackend/
+customer-manager/
 ├── config/              # Configuration files
 │   └── database.php     # Database connection
 ├── controllers/         # Business logic controllers
@@ -77,8 +77,8 @@ The system includes tables for:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/jotive/PruebaBackend.git
-   cd PruebaBackend
+   git clone https://github.com/jotive/customer-manager.git
+   cd customer-manager
    ```
 
 2. **Set up the database:**
